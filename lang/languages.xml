@@ -16,7 +16,6 @@ Deutsch		(German)
 简体中文 (中国)  (Chinese (Simplified)
 Esperanto
 Lojban
-Suomi           (Finnish)
 -->
         <language display_name="English (US)" locale="en_US" wallet_language="English" flag="/lang/flags/usa.png" qs="none"/>
         <!-- <language display_name="English (GB)" locale="en_GB" wallet_language="English" flag="/lang/flags/uk.png" qs="none"/> -->
