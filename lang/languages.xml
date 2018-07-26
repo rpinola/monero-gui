@@ -16,6 +16,7 @@ Deutsch		(German)
 简体中文 (中国)  (Chinese (Simplified)
 Esperanto
 Lojban
+Suomi           (Finnish)
 -->
         <language display_name="English (US)" locale="en_US" wallet_language="English" flag="/lang/flags/usa.png" qs="none"/>
         <!-- <language display_name="English (GB)" locale="en_GB" wallet_language="English" flag="/lang/flags/uk.png" qs="none"/> -->
@@ -53,4 +54,5 @@ Lojban
         <language display_name="Türkçe" locale="tr_TR" wallet_language="English" flag="/lang/flags/tr.png" qs="none"/>
         <language display_name="Українська" locale="uk_UA" wallet_language="English" flag="/lang/flags/ukraine.png" qs="none"/>
         <language display_name="Lietuvių" locale="lt_LT" wallet_language="English" flag="/lang/flags/lt.png" qs="none"/>
+        <language display_name="Suomi" locale="fi_FI" wallet_language="English" flag="lang/flags/finland.png" qs="none"/>
 </languages>
